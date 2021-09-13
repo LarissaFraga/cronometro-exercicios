@@ -1,4 +1,6 @@
 # CronometroExercicios
+Este projeto foi desenvolvido durante o bootcamp do IGTI de front-end.
+A aplicação consiste em cronometrar treinos de exercícios físicos.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
